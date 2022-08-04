@@ -1,22 +1,20 @@
 import React from 'react'
 
+class DisplayedInfo extends React.Component {
 
 
-
- class Displayedinfo extends  React.Component {
-  
-    render() {
-  
+  render() {
 
     return (
-      <div>  <hr></hr>
-      <p>city name:{this.props.name}</p>
-      <p>latitude :{this.props.lat}</p>
-      <p>longitude:{this.props.lon}</p>
-      <hr></hr>
- </div>
+      <div>
+        <hr></hr>
+        <p>City name : {this.props.name}</p>
+        <p>Latitude :{this.props.lat}</p>
+        <p>Longitude :{this.props.lon}</p>
+        <hr></hr>
+      </div>
     )
   }
 }
 
-export default Displayedinfo
+export default DisplayedInfo;
