@@ -77,7 +77,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ## Overview
 This application allows the user to search for a city and see current weather, a map of the city center, and relevant movies.
 ## plain pic
-![plan pic](https://ibb.co/DzTtYGf)
+[plain pic](https://ibb.co/DzTtYGf)
 
 ## Credit and Collaborations
 suhaib alnaji my partnar on the project 
